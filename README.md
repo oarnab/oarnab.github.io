@@ -46,9 +46,9 @@ En este repositorio he recopilado algunos fragmentos de código que demuestran m
 
 Dentro encontrarás scripts y clases demostrativas de:
 * **Python:** Scripting para IA y Visión por Computador.
-* **Java:** Estructuras POO.
+* **Java:** Estructuras Top Down.
 * **C++:** Gestión de memoria y rendimiento.
-* **Bash:** Automatización de tareas en Linux.
+* **HTML y CSS:** Realizado para Front End con etiquetas.
 
 ---
 
