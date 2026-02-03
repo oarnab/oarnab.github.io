@@ -2,7 +2,7 @@
 
 ### Programador Junior | Entusiasta de la IA y Visión por Ordenador
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oscararnabat3@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/oscar-arnabat-domenech-234024335/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oscararnabat3@gmail.com)
 
 ---
 
