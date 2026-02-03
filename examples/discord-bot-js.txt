@@ -1,0 +1,1 @@
+Projecte personal, bot discord multifuncional per a servidors personals: https://github.com/oarnab/wifi-robado-discord-bot
