@@ -40,7 +40,7 @@ Soy un desarrollador con base en **Sabadell** apasionado por la tecnología. Act
 
 ### 📂 Ejemplos de Código
 
-En este repositorio he recopilado algunos fragmentos de código que demuestran mi dominio de la sintaxis y estructuras en los lenguajes que utilizo.
+En este repositorio he recopilado algunos fragmentos de código que demuestran mi dominio de la base y estructuras en los lenguajes que utilizo.
 
 👉 **[Ver la carpeta de Ejemplos de Código](./examples)**
 
@@ -56,7 +56,7 @@ Dentro encontrarás scripts y clases demostrativas de:
 
 **🔹 Arboleda Intelligence | Becario de Proyectos**
 *Enero 2025 - Mayo 2025*
-* Implementación de sistemas de **Visió por Computador** con Python y OpenCV.
+* Implementación de sistemas de **Visió por Ordenador** con Python y OpenCV.
 * Desarrollo de comunicación de datos mediante sockets UDP para detección de objetos.
 
 **🔹 Codelearn | Profesor de Programación y Robótica**
@@ -72,4 +72,4 @@ Dentro encontrarás scripts y clases demostrativas de:
 
 ---
 
-⭐️ *¡Gracias por visitar mi perfil!*
+⭐️ *¡Gracias por visitar!*
